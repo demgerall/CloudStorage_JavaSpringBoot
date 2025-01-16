@@ -1,5 +1,11 @@
 # Project name “Cloud Storage”
 
+## App schema
+
+<p align="center">
+<img src="https://github.com/demgerall/CloudStorage_JavaSpringBoot/blob/master/schema.jpg?raw=true")
+</p>
+
 ## Project description
 
 A REST application has been developed that provides an interface for uploading files and displaying a list of the user's already uploaded files. 
